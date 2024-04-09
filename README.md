@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="images/1.png?v=2" />
+  <img src="[images/1.png?v=2](https://github.com/gethomepage/homepage/raw/main/images/1.png?v=2)" />
 </p>
 
 <p align="center">
